@@ -25,7 +25,7 @@ git pull : 원격저장소 파일 다운로드
 
 git merge : 브랜치 병합
 
-![image](https://github.com/MinJunKimsdaads/git-tutorial1/assets/93234895/2bd717c8-a584-4d56-b20b-121fe4366bdc)
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--M_fHUEqA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/128hsgntnsu9bww0y8sz.png">
 
 
 2023-10-18 노션에서 git으로 이동
